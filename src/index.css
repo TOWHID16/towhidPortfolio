@@ -1,0 +1,54 @@
+/* src/index.css */
+
+/* From input.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* From font.css */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Nunito:wght@300;400;600;700;800;900&family=Russo+One&family=Spartan:wght@700;800;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CA:wght@100..400&display=swap');
+/* i wanna use this fornt for hero secton Name*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* From style.css */
+#wrapper-canvas canvas {
+  max-width: 100%;
+}
+
+/* From index.html <style> tag */
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #1788ae;
+}
+
+.swiper-pagination-bullet {
+  background-color: #23b9eb;
+}
+
+/* Base body styles */
+body {
+    background-color: #111;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+}
