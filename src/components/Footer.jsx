@@ -4,7 +4,7 @@ import TwitterIcon from './icons/TwitterIcon';
 import InstagramIcon from './icons/InstagramIcon';
 import EmailIcon from './icons/EmailIcon';
 //import YoutubeIcon from './icons/YoutubeIcon';
-import GitHubIcon from './icons/GithubIcon'; 
+import GitHubIcon from './icons/GitHubIcon'; 
 
 const Footer = () => {
     const socialLinks = [
