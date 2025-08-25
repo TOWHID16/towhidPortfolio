@@ -3,7 +3,7 @@ import LinkedinIcon from './icons/LinkedinIcon';
 import TwitterIcon from './icons/TwitterIcon';
 import InstagramIcon from './icons/InstagramIcon';
 import EmailIcon from './icons/EmailIcon';
-import GitHubIcon from './icons/GithubIcon';
+import GitHubIcon from './icons/GitHubIcon';
 import BackgroundLogo from './icons/BackgroundLogo';
 import RightArrowIcon from './icons/RightArrowIcon';
 import DownArrowIcon from './icons/DownArrowIcon';
