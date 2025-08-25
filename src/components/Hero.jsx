@@ -27,7 +27,7 @@ const Hero = ({ onAboutMeClick, onLatestWorksClick }) => {
             Towhidur Rahman Asif
           </h1>
           <p className="pointer-events-none font-['Merriweather'] italic my-4 md:my-8">
-            MERN Stack Developer
+            Full Stack Developer
           </p>
           {/* Add the onClick handler to this button */}
           <button
