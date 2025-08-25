@@ -17,15 +17,15 @@ const testimonialsData = [
   },
   {
     name: 'Nafi Ullah Shafin',
-    title: 'Senior Software Engineer,',
-    quote: '“Towhid was a wonderful developer to work with! He anticipated everything I need to consider for my website. He also went the extra mile and added details that I hadn\'t considered! He is helping my business grow, and I will definitely work with him again!”',
+    title: 'Software Engineer, App-Concept.com GmbH',
+    quote: '“Towhid is an outstanding developer who always delivers beyond expectations! He quickly understands project needs, suggests smart improvements, and implements them flawlessly. His dedication and attention to detail make the process smooth and stress-free. Thanks to his work, my project is performing better than I imagined. I would be happy to collaborate with him again!”',
     image: '/assets/images/nafi.JPG'
   },
   {
     name: 'Sahidur Rahman Sharif',
     title: 'CSE Student, SUST',
-    quote: '“I worked with Towhid to make my website. I am speechless by looking at his work ethic and dedication. Working with him was the best decision I made.”',
-    //image: '/assets/images/Srihari.webp'
+    quote: '“Knowing Towhid, I can speak to his incredible work ethic, dedication and passion. His enthusiasm for technology is genuinely inspiring, and I have no doubt he will be an incredible developer.”',
+    image: '/assets/images/sharif.jpg'
   }
 ];
 
