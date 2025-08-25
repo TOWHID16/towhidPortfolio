@@ -11,21 +11,21 @@ import { Navigation, Pagination } from 'swiper/modules';
 const testimonialsData = [
   {
     name: 'M.M. Zahid Hasan',
-    title: 'Founder, EazyGrad',
+    title: 'Software Engineering Student, SUST',
     quote: '“Collaborating with Towhid on web projects is always a great experience. He is a fantastic team member who brings both strong technical skills and a creative approach to the table. His dedication to getting things right makes him an invaluable partner, and I hope to see all the great projects coming up!”',
     image: '/assets/images/zahid.JPG'
   },
   {
-    name: 'Kira Bragg',
-    title: 'English Mentor',
+    name: 'Nafi Ullah Shafin',
+    title: 'Senior Software Engineer,',
     quote: '“Towhid was a wonderful developer to work with! He anticipated everything I need to consider for my website. He also went the extra mile and added details that I hadn\'t considered! He is helping my business grow, and I will definitely work with him again!”',
-    image: '/assets/images/kira.webp'
+    image: '/assets/images/nafi.JPG'
   },
   {
-    name: 'Srihari Kestur',
-    title: 'Founder Harigurus',
+    name: 'Sahidur Rahman Sharif',
+    title: 'CSE Student, SUST',
     quote: '“I worked with Towhid to make my website. I am speechless by looking at his work ethic and dedication. Working with him was the best decision I made.”',
-    image: '/assets/images/Srihari.webp'
+    //image: '/assets/images/Srihari.webp'
   }
 ];
 
