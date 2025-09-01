@@ -25,8 +25,8 @@ const AboutMe = ({ onClose }) => {
   ];
 
   return (
-    <div className="fixed inset-0 bg-black bg-opacity-80 z-50 flex justify-center items-center p-4 ">
-      <div className="bg-gradient-to-b from-[#111827] to-[#1F2937] border border-cyan-700/50  rounded-lg max-w-4xl w-full p-8 relative animate-fade-in shadow-2xl shadow-cyan-500/20">
+    <div className="fixed inset-0 bg-black bg-opacity-80 z-50 flex justify-center items-start sm:items-center p-4 overflow-y-auto ">
+      <div className="bg-gradient-to-b from-[#111827] to-[#1F2937] border border-cyan-700/50  rounded-lg max-w-4xl w-full p-8 relative animate-fade-in shadow-2xl shadow-cyan-500/20 my-auto">
         {/* Close Button */}
         <button
           onClick={onClose}
@@ -90,7 +90,7 @@ const AboutMe = ({ onClose }) => {
           </div>
           
           {/* Right Column: Image with Gradient Border (UPDATED) */}
-          <div className="flex items-center justify-center p-4">
+          <div className="flex items-center justify-center p-5">
             <div className="relative p-1 rounded-xl bg-gradient-to-br from-[#1788ae] via-[#00aeff] to-[#1788ae] shadow-lg shadow-cyan-500/20">
               <div className="bg-[#111] rounded-lg">
                 <img 
